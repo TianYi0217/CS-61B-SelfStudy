@@ -16,15 +16,15 @@
 
 在Microsoft Store里面搜索Windows Terminal并安装它
 
-![image-20220727110042850](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220727110042850.png)
+![image-20220727110042850](Lab 1 Setup.assets/image-20220727110042850.png)
 
-![image-20220727110214274](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220727110214274.png)
+![image-20220727110214274](Lab 1 Setup.assets/image-20220727110214274.png)
 
 之后你就可以在开始菜单使用 *终端*  来执行命令了
 
 这是我们刚刚安装好的Git Bash
 
-![image-20220727114553831](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220727114553831.png)
+![image-20220727114553831](Lab 1 Setup.assets/image-20220727114553831.png)
 
 ##### 3. 安装 Git
 
@@ -32,7 +32,7 @@
 
 Windows Explorer integration就是右键菜单，如果不介意右键菜单变长的话可以打上勾，有可能会方便一些
 
- ![image-20220727110533503](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220727110533503.png)
+ ![image-20220727110533503](Lab 1 Setup.assets/image-20220727110533503.png)
 
 然后无脑下一步就好了
 
@@ -44,17 +44,17 @@ https://www.jetbrains.com/idea/download/
 
 请选择社区版本，没特别的原因，这个不要钱
 
-![image-20220727113344766](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220727113344766.png)
+![image-20220727113344766](Lab 1 Setup.assets/image-20220727113344766.png)
 
 安装时勾选添加到PATH
 
-![image-20220727113651459](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220727113651459.png)
+![image-20220727113651459](Lab 1 Setup.assets/image-20220727113651459.png)
 
 然后无脑下一步
 
 之后打开IDEA安装 *CS 61B* 插件
 
-![image-20220727113934905](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220727113934905.png)
+![image-20220727113934905](Lab 1 Setup.assets/image-20220727113934905.png)
 
 按照同样方法安装 *Java Visualizer*
 
